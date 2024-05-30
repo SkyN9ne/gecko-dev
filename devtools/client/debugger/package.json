@@ -22,7 +22,7 @@
     "watch": "node bin/watch"
   },
   "dependencies": {
-    "codemirror": "^5.28.0",
+    "codemirror": "^5.58.2",
     "fuzzaldrin-plus": "^0.6.0",
     "parse-script-tags": "github:loganfsmyth/parse-script-tags#d771732ca47e1b3554fe67d609fd18cc785c5f26",
     "react": "16.8.6",
@@ -82,7 +82,7 @@
     "jest-localstorage-mock": "^2.4.17",
     "jest-serializer-babel-ast": "^0.0.5",
     "redux": "^4.0.5",
-    "webpack": "^3.5.5",
+    "webpack": "^5.91.0",
     "workerjs": "github:jasonLaster/workerjs#1944c8b753cc9e84b6ed0cb2fbcaa25600706446"
   },
   "resolutions": {
